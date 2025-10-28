@@ -4,7 +4,7 @@ const app = express();
 
 app.get("/", (req, res) => res.send("Hello From Your API"));
 
-
+We are making good progress by typing in this box. You need to commit to something Solomon. You need to create a focus time and deep yourself into learning. You don't know anything. You need to
 
 
 /**
